@@ -14,5 +14,5 @@ jobs:
       pull-requests: write
       checks: read
       statuses: read
-    uses: fearandesire/ci-shared/.github/workflows/ready-when-green.yml@v1
+    uses: fearandesire/ci-shared/.github/workflows/ready-when-green.yml@v2
     secrets: inherit
